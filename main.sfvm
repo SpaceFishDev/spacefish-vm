@@ -1,0 +1,8 @@
+main:
+    push 50
+    push 10
+    pop
+    pop
+    add
+    put_num
+    pop
